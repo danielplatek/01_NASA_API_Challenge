@@ -2,7 +2,7 @@ Front-End Developer: Daniel Płatek (:
 
 LinkedIn: www.linkedin.com/in/danielplatek  
 CodePen: http://codepen.io/dplatek/  
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Project: **NASA API Challenge with particles.**  
 CodePen: http://codepen.io/dplatek/pen/QpBogo
